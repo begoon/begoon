@@ -6,4 +6,5 @@
 ## Experiments
 
 - [Mayne-James compression](https://github.com/begoon/tmpz/tree/main/mayne-james-compression) (LZ precursor)
-- [GPM macro processor](https://github.com/begoon/tmpz/new/main/gpm-macro)
+- [GPM macro processor](https://github.com/begoon/tmpz/tree/main/gpm-macro)
+- [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/tmpz/tree/main/gomoku)
