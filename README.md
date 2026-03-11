@@ -4,6 +4,7 @@
 - [TRAC (64) interpreter](https://github.com/begoon/trac)
 - [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM.
 - [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig.
+- [Vigenère Cypher breaker](https://github.com/begoon/etudes-vegenere/) - a solution for the Vigenère cypher etude from "Etudes for Prorammers" by Charles Wetherell (from the Russian editor of the book).
 
   
 ## Experiments
