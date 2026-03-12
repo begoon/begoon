@@ -1,5 +1,6 @@
 ## Recent projects
 
+- [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh)
 - [EASY language compiler](https://github.com/begoon/easy)
 - [TRAC (64) interpreter](https://github.com/begoon/trac)
 - [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM.
