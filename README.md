@@ -1,5 +1,6 @@
 ## Recent projects
 
+- [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh)
 - [EASY language compiler](https://github.com/begoon/easy)
