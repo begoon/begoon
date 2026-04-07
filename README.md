@@ -1,5 +1,15 @@
 ## Recent projects
 
+<radio86-emulator monitor="mon32.bin" file="CHESS.GAM" files-path="/files/"></radio86-emulator>
+
+### Радио-86РК emulator in JavaScript
+
+- [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru)
+- [rk86-js-web](https://github.com/begoon/rk86-js-web) - next generation emulator in Svelte/Typescript, running on [rk86.ru](https://rk86.ru/beta)
+- emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>`
+
+### Other
+
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh)
