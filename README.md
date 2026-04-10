@@ -11,7 +11,7 @@
 ### Other
 
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
-- [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript
+- [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or `bunx asm8080`)
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh)
 - [EASY language compiler](https://github.com/begoon/easy)
 - [TRAC (64) interpreter](https://github.com/begoon/trac)
