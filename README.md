@@ -19,7 +19,7 @@
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or `bunx asm8080`)
 
 ### Algorithms
-- [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM.
+- [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM for [online](https://demin.ws/gomoku-zig/).
 - [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig
 - [Vigenère Cipher breaker](https://github.com/begoon/etudes-vegenere/) - a solution for the Vigenère cipher etude from "Etudes for Programmers" by Charles Wetherell (from the Russian editor of the book)
 
