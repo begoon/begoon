@@ -4,7 +4,7 @@
 
 ### Радио-86РК emulator in JavaScript
 
-- [plm80-compiler](https://github.com/begoon/plm80-compiler) - PL/M compiler for Intel 8080 and Радио-86РК (runnig via `npx plm80`)
+- [plm80](https://github.com/begoon/plm80) - PL/M compiler for Intel 8080 and Радио-86РК (runnig via `npx plm80`)
 - [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru)
 - [rk86-js-web](https://github.com/begoon/rk86-js-web) - next generation emulator in Svelte/Typescript, running on [rk86.ru/beta](https://rk86.ru/beta), also running in terminal via `npx rk86`
 - emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>`
