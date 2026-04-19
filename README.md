@@ -16,7 +16,7 @@
 - [SNOBOL4](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (available as `npx snobol`)
 - [EASY language compiler](https://github.com/begoon/easy)
 - [TRAC (64) interpreter](https://github.com/begoon/trac) - run via `npx trac64i` or in the [online playground](https://begoon.github.io/trac/)
-- [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or `bunx asm8080`)
+- [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or [online playground](https://begoon.github.io/asm8/))
 
 ### Algorithms
 - [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM for [online](https://demin.ws/gomoku-zig/).
