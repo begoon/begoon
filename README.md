@@ -7,8 +7,12 @@
 - [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru)
 - [rk86-js-kit](https://github.com/begoon/rk86-js-kit) - next generation emulator toolkit in Svelte/Typescript, running on [rk86.ru/beta](https://rk86.ru/beta), also running in terminal via `npx rk86`
 - emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>`
-- [volcano](https://github.com/begoon/volcano) - restoration and remake of the Volcano game for Intel 8080 and Радио-86РК
-- [lestnica](https://github.com/begoon/lestnica) - restoration of the Lestnica (Лестница) game for Intel 8080 and Радио-86РК
+
+### Радио-86РК (Intel 8080) games
+
+- [volcano](https://github.com/begoon/volcano) - restoration and remake of Volcano
+- [lestnica](https://github.com/begoon/lestnica) - restoration of "Лестница"
+- [diverse](https://github.com/begoon/diverse) - restoration of "Диверсант"
 
 ### Programming languages
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
