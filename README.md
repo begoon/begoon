@@ -10,9 +10,10 @@
 
 ### Радио-86РК (Intel 8080) games
 
-- [volcano](https://github.com/begoon/volcano) - restoration and remake of Volcano
-- [lestnica](https://github.com/begoon/lestnica) - restoration of "Лестница"
-- [diverse](https://github.com/begoon/diverse) - restoration of "Диверсант"
+- [volcano](https://github.com/begoon/volcano) - восстановление и ремейк игры Volcano
+- [lestnica](https://github.com/begoon/lestnica) - восстановление игры "Лестница"
+- [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
+- [aliaz1](https://github.com/begoon/aliaz1) - восстановление игры "Диверсант"
 
 ### Programming languages
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
