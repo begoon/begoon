@@ -16,6 +16,7 @@
 
 ### Programming languages
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
+- [c8080-js](https://github.com/begoon/c8080-js) - Intel 8080 C `c8080` compiler port to TypeScript (running via `npx c8080` or [online playground](https://rk86.ru/beta/c8080))
 - [plm80](https://github.com/begoon/plm80) - PL/M compiler for Intel 8080 and Радио-86РК (runnig via `npx plm80`)
 - [SNOBOL4](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (available as `npx snobol`)
 - [EASY language compiler](https://github.com/begoon/easy)
