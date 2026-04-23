@@ -4,12 +4,11 @@
 
 ### Радио-86РК emulator in JavaScript
 
-- [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru)
-- [rk86-js-kit](https://github.com/begoon/rk86-js-kit) - next generation emulator toolkit in Svelte/Typescript, running on [rk86.ru/beta](https://rk86.ru/beta), also running in terminal via `npx rk86`
+- [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru) and the next generation emulator toolkit in Svelte/Typescript, running on [rk86.ru/beta](https://rk86.ru/beta), also running in terminal via `npx rk86`
 - emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>`
 
 ### Радио-86РК (Intel 8080) games
-
+ 
 - [volcano](https://github.com/begoon/volcano) - восстановление и ремейк игры "Volcano"
 - [lestnica](https://github.com/begoon/lestnica) - восстановление игры "Лестница"
 - [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
