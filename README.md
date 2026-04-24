@@ -19,7 +19,7 @@
 - [c8080-js](https://github.com/begoon/c8080-js) - Intel 8080 C `c8080` compiler port to TypeScript (running via `npx c8080` or [online playground](https://rk86.ru/beta/c8080))
 - [plm80](https://github.com/begoon/plm80) - PL/M compiler for Intel 8080 and Радио-86РК (runnig via `npx plm80`)
 - [SNOBOL4](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (available as `npx snobol`)
-- [EASY language compiler](https://github.com/begoon/easy)
+- [EASY language compiler](https://github.com/begoon/easy) - available via `npx @begoon/easyc` or [online](https://begoon.github.io/easy/)
 - [TRAC (64) interpreter](https://github.com/begoon/trac) - run via `npx trac64i` or in the [online playground](https://begoon.github.io/trac/)
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or [online playground](https://begoon.github.io/asm8/))
 
