@@ -3,7 +3,8 @@
 ## Радио-86РК emulator in JavaScript
 
 - [rk86-js](https://github.com/begoon/rk86-js) - original emulator running on [rk86.ru](https://rk86.ru) and the next generation emulator toolkit in Svelte/Typescript, running on [rk86.ru/beta](https://rk86.ru/beta), also running in terminal via `npx rk86`
-- emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>`
+- emulator [web component](https://rk86.ru/beta/demo.html) `<radio86-emulator>
+- [rk86-tape](https://github.com/begoon/rk86-table) — декодер WAV-лент Радио-86РК ([визуалиция](https://demin.ws/rk86-tape/) и [описание кодирования](https://github.com/begoon/rk86-tape/blob/main/README-RU.md))
 
 ## Радио-86РК (Intel 8080) games
 
