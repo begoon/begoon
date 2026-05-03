@@ -12,6 +12,7 @@
 - [lestnica](https://github.com/begoon/lestnica) - восстановление игры "Лестница"
 - [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
 - [aliaz1](https://github.com/begoon/aliaz1) - восстановление игры "Алмаз"
+- [pvo](https://github.com/begoon/pvo) - восстановление игры "ПВО"
 
 ## Programming languages
 
