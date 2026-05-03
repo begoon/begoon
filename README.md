@@ -8,6 +8,7 @@
 
 ## Радио-86РК (Intel 8080) games
 
+- [rk86-reversal](https://github.com/begoon/rk86-reversal) - skills для Claude Code для дизассемблирования программа для РК
 - [volcano](https://github.com/begoon/volcano) - восстановление и ремейк игры "Volcano"
 - [lestnica](https://github.com/begoon/lestnica) - восстановление игры "Лестница"
 - [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
