@@ -14,6 +14,7 @@
 - [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
 - [aliaz1](https://github.com/begoon/aliaz1) - восстановление игры "Алмаз"
 - [pvo](https://github.com/begoon/pvo) - восстановление игры "ПВО"
+- [klad](https://github.com/begoon/klad) - восстановление игры "Клад"
 
 ## Programming languages
 
