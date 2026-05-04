@@ -15,6 +15,7 @@
 - [aliaz1](https://github.com/begoon/aliaz1) - восстановление игры "Алмаз"
 - [pvo](https://github.com/begoon/pvo) - восстановление игры "ПВО"
 - [klad](https://github.com/begoon/klad) - восстановление игры "Клад"
+- [space](https://github.com/begoon/space) - восстановление игры "SPACE"
 
 ## Programming languages
 
