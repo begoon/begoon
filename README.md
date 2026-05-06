@@ -17,6 +17,10 @@
 - [klad](https://github.com/begoon/klad) - восстановление игры "Клад"
 - [space](https://github.com/begoon/space) - восстановление игры "SPACE"
 
+## Dissertation
+
+- [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP — Implementation, Analysis, Benchmarks
+
 ## Programming languages
 
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
@@ -33,10 +37,14 @@
 - [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig
 - [Vigenère Cipher breaker](https://github.com/begoon/etudes-vegenere/) - a solution for the Vigenère cipher etude from "Etudes for Programmers" by Charles Wetherell (from the Russian editor of the book)
 
+##  Games
+
+- [conix](https://github.com/begoon/conix) - `conix` game port to Python and Typescript
+- [paratrooper](https://github.com/begoon/paratrooper) - a browser remake of the classic 1982 arcade game Paratrooper
+
 ##  Other
 
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh), also running via `uvx xcfm` from [pypi.org](https://pypi.org/project/xcfm/)
-- [conix](https://github.com/begoon/conix) - `conix` game port to Python and Typescript
 - [All starred repositories](./stars.md) - a list of repos sorted by stars
 
 ## Experiments
