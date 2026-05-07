@@ -50,7 +50,7 @@
 ##  Other
 
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh), also running via `uvx xcfm` from [pypi.org](https://pypi.org/project/xcfm/)
-- [All starred repositories](./stars.md) - a list of repos sorted by stars
+- [all starred repositories](./stars.md) - a list of repos sorted by stars
 
 ## Experiments
 
