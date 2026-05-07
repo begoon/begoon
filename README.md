@@ -34,6 +34,7 @@
 ## Tooling
 
 - [ghasecret](https://github.com/begoon/ghasecret) - A GitHub Action that triple-base64-encodes secret values so they can be recovered from workflow logs ([GHA marketplace](https://github.com/marketplace/actions/ghasecret))
+- [ghasha](https://github.com/begoon/ghasha) - A Github Action that computes SHA, SHORT_SHA and BRANCH for the current commit ([GHA marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 
 ## Algorithms
 
