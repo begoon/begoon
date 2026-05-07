@@ -31,6 +31,10 @@
 - [TRAC (64) interpreter](https://github.com/begoon/trac) - run via `npx trac64i` or in the [online playground](https://begoon.github.io/trac/)
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or [online playground](https://begoon.github.io/asm8/))
 
+## Tooling
+
+- [ghasecret](https://github.com/begoon/ghasecret) - A GitHub Action that triple-base64-encodes secret values so they can be recovered from workflow logs ([GHA marketplace](https://github.com/marketplace/actions/ghasecret))
+
 ## Algorithms
 
 - [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM for [online](https://demin.ws/gomoku-zig/).
