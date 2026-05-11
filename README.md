@@ -47,6 +47,7 @@
 - [conix](https://github.com/begoon/conix) - `conix` game port to Python and Typescript
 - [paratrooper](https://github.com/begoon/paratrooper) - a browser remake of the classic 1982 arcade game Paratrooper ([play online](https://begoon.github.io/paratrooper))
 - [fighter](https://github.com/begoon/fighter) - a browser remake of the classic Агат-7 game Fighter ([play online](https://begoon.github.io/fighter))
+- [kling](https://github.com/begoon/kling) - Космические Войны - a browser remake of ПЭВМ АГАТ-9 game ([play online](https://begoon.github.io/kling))
 
 ##  Other
 
