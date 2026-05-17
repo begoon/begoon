@@ -21,6 +21,8 @@
 
 - [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP — Implementation, Analysis, Benchmarks
 
+> The Combined Method is a four-stage MILP solver: LP relaxation → vector-lattice search for a feasible near the LP corner → add a filter row to the LP, derive a small box → final lattice search with the strict filter to either improve or prove the incumbent optimal.
+
 ## Programming languages
 
 - [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
