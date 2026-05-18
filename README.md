@@ -51,7 +51,7 @@
 - [fighter](https://github.com/begoon/fighter) - a browser remake of the classic Агат-7 game Fighter ([play online](https://begoon.github.io/fighter))
 - [kling](https://github.com/begoon/kling) - Космические Войны - a browser remake of ПЭВМ АГАТ-9 game ([play online](https://begoon.github.io/kling))
 - [skittles](https://github.com/begoon/skittles) - a web reimagining of Городки — the classic arcade and folk game ([play online](https://begoon.github.io/skittles))
-- [durak](https://github.com/durak) - карточная игра "Переводной Дурак" ([играть в онлайн](https://begoon.github.io/durak))
+- [durak](https://github.com/begoon/durak) - карточная игра "Переводной Дурак" ([играть в онлайн](https://begoon.github.io/durak))
 
 ##  Other
 
