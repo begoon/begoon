@@ -23,6 +23,8 @@
 
 > The Combined Method is a four-stage MILP solver: LP relaxation → vector-lattice search for a feasible near the LP corner → add a filter row to the LP, derive a small box → final lattice search with the strict filter to either improve or prove the incumbent optimal.
 
+- [svg-draw](https://github.com/begoon/svg-draw) - web-based interative playground to Javascript-based DSL to draw scientific illustrations (try [online](https://begoon.github.io/svg-draw))
+
 ## Programming languages
 
 - [rapira](https://github.com/begoon/rapira) - Rapira ([Рапира](https://github.com/begoon/rapira/blob/main/RAPIRA.md)) programming language interpreter in Typescript (running via `npx rapira` or [online playground](https://begoon.github.io/rapira))
