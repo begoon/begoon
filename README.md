@@ -36,6 +36,10 @@
 - [TRAC (64) interpreter](https://github.com/begoon/trac) - run via `npx trac64i` or in the [online playground](https://begoon.github.io/trac/)
 - [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or [online playground](https://begoon.github.io/asm8/))
 
+## Radio
+
+- [ssb](https://github.com/begoon/ssb) - In-browser demonstration of Single Side Band (SSB) modulation (try [online](https://begoon.github.io/ssb))
+
 ## Tooling
 
 - [ghasecret](https://github.com/begoon/ghasecret) - A GitHub Action that triple-base64-encodes secret values so they can be recovered from workflow logs ([GHA marketplace](https://github.com/marketplace/actions/ghasecret))
