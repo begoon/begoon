@@ -63,6 +63,7 @@
 ##  Other
 
 - [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh), also running via `uvx xcfm` from [pypi.org](https://pypi.org/project/xcfm/)
+- [tfl](https://github.com/begoon/tfl) - a TFL time table and line status viewer
 - [ucl](https://github.com/begoon/ucl) - an HTML/JS re-make on UCL 1996 DOS demo ([view online](https://demin.ws/ucl))
 
 ## Experiments
