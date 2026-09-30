@@ -48,7 +48,7 @@
 ## Algorithms
 
 - [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM for [online](https://demin.ws/gomoku-zig/).
-- [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig
+- [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/))
 - [Vigenère Cipher breaker](https://github.com/begoon/etudes-vegenere/) - a solution for the Vigenère cipher etude from "Etudes for Programmers" by Charles Wetherell (from the Russian editor of the book)
 
 ##  Games
