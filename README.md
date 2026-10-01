@@ -48,7 +48,6 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
 - [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
-- [jasper](https://github.com/begoon/jasper) - Sinclair ZX Spectrum 48 emulator in Java
 - [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
 - [rk86-monitor](https://github.com/begoon/rk86-monitor) - annotated disassembly of the original 2 KB ROM monitor
 - [rk86-reverse](https://github.com/begoon/rk86-reverse) - Claude Code skills for disassembling and reverse-engineering Intel 8080 programs
