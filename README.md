@@ -12,7 +12,7 @@ Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8
 - **Cloud and platform engineering.** Infrastructure as code, CI/CD, observability and release engineering on GCP and AWS. Certified as AWS Solutions Architect, Developer and SysOps Administrator, Google Professional Cloud Developer and Associate Cloud Engineer, and HashiCorp Terraform Associate.
 - **Technical leadership.** Design reviews, mentoring, setting engineering standards and turning loosely defined product goals into systems that ship and keep running.
 - **Depth below the framework.** 20+ years across backend, embedded and systems programming means I debug protocols, performance and memory problems at whatever layer they live in, from Kubernetes down to the instruction set.
-- **Writing and teaching.** Author of the blog [Programming DIY](https://demin.ws) since 2009 (also in [English](https://demin.ws/english/)), and of articles for [PragPub](https://pragprog.com/magazines/) on iOS development, Go concurrency and CPU design. MSc from Moscow Aviation Institute.
+- **Writing and teaching.** Author of the blog [Programming DIY](https://demin.ws) since 2009 (also in [English](https://demin.ws/english/)), and of articles for [PragPub](https://pragprog.com/magazines/) on iOS development, Go concurrency and CPU design. PhD from Moscow Aviation Institute.
 
 **Languages and stack:** Go, Python, TypeScript/JavaScript, C, Zig, Assembly (Intel 8080/Z80), Svelte, WASM, GCP, AWS, Kubernetes, Terraform, Docker, GitHub Actions.
 
