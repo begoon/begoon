@@ -12,7 +12,7 @@ Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8
 - **Cloud and platform engineering.** Infrastructure as code, CI/CD, observability and release engineering on GCP and AWS. Certified on AWS (Solutions Architect, Developer, SysOps), Google Cloud (Professional Cloud Developer) and Terraform.
 - **Technical leadership.** Design reviews, mentoring, setting engineering standards and turning loosely defined product goals into systems that ship and keep running.
 - **Depth below the framework.** 20+ years across backend, embedded and systems programming means I debug protocols, performance and memory problems at whatever layer they live in, from Kubernetes down to the instruction set.
-- **Writing and teaching.** Author of the blog [Programming DIY](https://demin.ws) since 2009 (also in [English](https://demin.ws/english/)), and of articles for [PragPub](https://pragprog.com/magazines/) on iOS development, Go concurrency and CPU design.
+- **Writing and teaching.** Author of the blog [Programming DIY](https://demin.ws/english/) since 2009 (also in [Russian](https://demin.ws)), and of articles for [PragPub](https://pragprog.com/magazines/) on iOS development, Go concurrency and CPU design.
 - **PhD in Computer Science** from Moscow Aviation Institute. The thesis, the [Combined Method for integer linear programming](https://github.com/begoon/dissertation), is published with its implementation and benchmarks.
 
 **Languages and stack:** Go, Python, TypeScript/JavaScript, C, Zig, Assembly (Intel 8080/Z80), Svelte, WASM, GCP, AWS, Kubernetes, Terraform, Docker, GitHub Actions.
