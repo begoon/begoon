@@ -67,6 +67,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [gomoku-zig](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
 - [zig-sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
 - [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig (at most 5 guesses, 4.48 on average)
+- [mastermind-web](https://github.com/begoon/mastermind) - the same solver as a browser game: you think of a code, the computer guesses it, and it detects impossible or dishonest answers ([play](https://demin.ws/mastermind/))
 - [etudes-vegenere](https://github.com/begoon/etudes-vegenere) - Vigenère cipher breaker, the etude from Wetherell's "Etudes for Programmers"
 - [ssb](https://github.com/begoon/ssb) - in-browser demonstration of Single Side Band radio modulation ([online](https://begoon.github.io/ssb))
 - [Mayne-James compression](https://github.com/begoon/tmpz/tree/main/mayne-james-compression) (an LZ precursor) and the [GPM macro processor](https://github.com/begoon/tmpz/tree/main/gpm-macro)
