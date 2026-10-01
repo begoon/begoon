@@ -40,6 +40,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [easy](https://github.com/begoon/easy) - compiler for the EASY language (`npx @begoon/easyc`, [online](https://begoon.github.io/easy/))
 - [snobol](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (`npx snobol`)
 - [trac](https://github.com/begoon/trac) - TRAC 64 interpreter (`npx trac64i`, [online](https://begoon.github.io/trac/))
+- [peg](https://github.com/begoon/tmpz/tree/main/peg) - PEG parser generator in Python: ordered choice, predicates, character classes, AST construction
 - [nor](https://github.com/begoon/nor) - one-instruction CPU (OISC) based on NOR: DSL, compiler and executor
 - [rapira](https://github.com/begoon/rapira) - Rapira ([Рапира](https://github.com/begoon/rapira/blob/main/RAPIRA.md)) interpreter, see Highlights
 
@@ -65,6 +66,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [svg-draw](https://github.com/begoon/svg-draw) - web playground for a JavaScript DSL that draws scientific illustrations ([online](https://begoon.github.io/svg-draw))
 - [gomoku-zig](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
 - [zig-sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
+- [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig (at most 5 guesses, 4.48 on average)
 - [etudes-vegenere](https://github.com/begoon/etudes-vegenere) - Vigenère cipher breaker, the etude from Wetherell's "Etudes for Programmers"
 - [ssb](https://github.com/begoon/ssb) - in-browser demonstration of Single Side Band radio modulation ([online](https://begoon.github.io/ssb))
 - [Mayne-James compression](https://github.com/begoon/tmpz/tree/main/mayne-james-compression) (an LZ precursor) and the [GPM macro processor](https://github.com/begoon/tmpz/tree/main/gpm-macro)
