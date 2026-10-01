@@ -1,80 +1,99 @@
-Software engineer with 20+ years of experience, currently building distributed systems and cloud infrastructure.
+# Alexander Demin
 
-I still program for fun.
+**Staff Software Engineer** · London, UK · [demin.ws](https://demin.ws) · [LinkedIn](https://www.linkedin.com/in/alexanderdemin/)
 
-My side projects tend to involve things that are slightly closer to the metal: emulators, compilers and interpreters, algorithms, reverse engineering, old computers, radio, and occasionally solving problems that probably didn't need solving.
+I design and build distributed systems and cloud infrastructure, currently at [iProov](https://www.iproov.com) (biometric identity verification). 20+ years of engineering across backend, platform, embedded and low-level work. Writing code on GitHub since 2009.
 
-This page is a collection of the projects I'm currently working on or still find interesting.
-# Recent projects
+Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8-bit machines and classic algorithms. Things that are slightly closer to the metal, and occasionally problems that probably did not need solving.
 
-## Радио-86РК emulator in JavaScript
+## What I do professionally
 
-- [rk86-js](https://github.com/begoon/rk86-js) - the next generation emulator (built-in debugger, assembler, C and PL/M compilers, web-component) in Svelte/Typescript, running on [rk86.ru](https://rk86.ru) and in terminal via `npx rk86`
-- Радио-86РК [web component](https://rk86.ru/web)
-- [rk86-tape](https://github.com/begoon/rk86-tape) — декодер WAV-лент Радио-86РК ([визуалиция](https://demin.ws/rk86-tape/) и [описание кодирования](https://github.com/begoon/rk86-tape/blob/main/README-RU.md))
+<!-- TODO: replace these with concrete scope and numbers (traffic, team size, systems owned). -->
 
-## Радио-86РК (Intel 8080) games
+- Architecture and ownership of production distributed systems: service boundaries, data flows, reliability and cost on public cloud.
+- Platform and developer-experience work: CI/CD, infrastructure as code, observability, release engineering.
+- Technical leadership across teams: design reviews, mentoring, setting engineering standards, turning vague product goals into shippable systems.
+- Deep debugging when it matters: protocols, performance, memory, and the layers below the framework.
 
-- [rk86-reverse](https://github.com/begoon/rk86-reverse) - skills для Claude Code для дизассемблирования программ для РК
-- [volcano](https://github.com/begoon/volcano) - восстановление и ремейк игры "Volcano"
-- [lestnica](https://github.com/begoon/lestnica) - восстановление игры "Лестница"
-- [diverse](https://github.com/begoon/diverse) - восстановление игры "Диверсант"
-- [aliaz1](https://github.com/begoon/aliaz1) - восстановление игры "Алмаз"
-- [pvo](https://github.com/begoon/pvo) - восстановление игры "ПВО"
-- [klad](https://github.com/begoon/klad) - восстановление игры "Клад"
-- [space](https://github.com/begoon/space) - восстановление игры "SPACE"
+**Languages and stack:** Go, Python, TypeScript/JavaScript, C, Zig, Assembly (Intel 8080/Z80), Svelte, WASM, GCP, Kubernetes, Docker, GitHub Actions.
 
-## Dissertation
+## Highlights
 
-- [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP — Implementation, Analysis, Benchmarks
+| Project | Why it is interesting | |
+|---|---|---|
+| [i8080-core](https://github.com/begoon/i8080-core) | Cycle-accurate Intel 8080 (KR580VM80A) core in C, verified against the 8080/8085 CPU exercisers; the basis of several emulators | ★83 |
+| [rapira](https://github.com/begoon/rapira) | Full interpreter for the Soviet educational language Rapira in TypeScript, with an [online playground](https://begoon.github.io/rapira) and `npx rapira` | ★57 |
+| [rk86-js](https://github.com/begoon/rk86-js) | Радио-86РК emulator with built-in debugger, assembler, C and PL/M compilers, shipped as a web component on [rk86.ru](https://rk86.ru) and in the terminal via `npx rk86` | ★28 |
+| [dissertation](https://github.com/begoon/dissertation) | Combined Method for Integer Linear Programming: a four-stage MILP solver (LP relaxation, vector-lattice search, filter row, bounded final search), with implementation, analysis and benchmarks | |
+| [gomoku-zig](https://github.com/begoon/gomoku-zig) | Gomoku AI in Zig/WASM: Minimax with alpha-beta pruning, local move pre-sorting and quiescence deepening to mitigate the horizon problem ([play](https://demin.ws/gomoku-zig/)) | |
+| [go-tcpspy](https://github.com/begoon/go-tcpspy) | TCP/IP proxy and traffic spy in Go, with [Python](https://github.com/begoon/py-tcpspy) and [Erlang](https://github.com/begoon/erl-tcpspy) ports | ★53 |
 
-> The Combined Method is a four-stage MILP solver: LP relaxation → vector-lattice search for a feasible near the LP corner → add a filter row to the LP, derive a small box → final lattice search with the strict filter to either improve or prove the incumbent optimal.
+The full list of public repositories sorted by stars is in [stars.md](stars.md).
 
-- [svg-draw](https://github.com/begoon/svg-draw) - web-based interative playground to Javascript-based DSL to draw scientific illustrations (try [online](https://begoon.github.io/svg-draw))
+## Language implementation
 
-## Programming languages
+Compilers, interpreters and assemblers, all written from scratch and runnable in the browser or via `npx`.
 
-- [rapira](https://github.com/begoon/rapira) - Rapira ([Рапира](https://github.com/begoon/rapira/blob/main/RAPIRA.md)) programming language interpreter in Typescript (running via `npx rapira` or [online playground](https://begoon.github.io/rapira))
-- [nor](https://github.com/begoon/nor) - One-instruction CPU (OISC) NOR (DSL, compiler and executor)
-- [c8080-js](https://github.com/begoon/c8080-js) - Intel 8080 C `c8080` compiler port to TypeScript (running via `npx c8080` or [online playground](https://rk86.ru/beta/c8080))
-- [plm80](https://github.com/begoon/plm80) - PL/M compiler for Intel 8080 and Радио-86РК (runnig via `npx plm80`)
-- [SNOBOL4](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (available as `npx snobol`)
-- [EASY language compiler](https://github.com/begoon/easy) - available via `npx @begoon/easyc` or [online](https://begoon.github.io/easy/)
-- [TRAC (64) interpreter](https://github.com/begoon/trac) - run via `npx trac64i` or in the [online playground](https://begoon.github.io/trac/)
-- [asm8](https://github.com/begoon/asm8) - a generic Intel 8080 assembler written in TypeScript (available as `npx asm8080` or [online playground](https://begoon.github.io/asm8/))
+- [c8080-js](https://github.com/begoon/c8080-js) - Intel 8080 C compiler ported to TypeScript (`npx c8080`, [online](https://rk86.ru/beta/c8080))
+- [plm80](https://github.com/begoon/plm80) - PL/M compiler for Intel 8080 and Радио-86РК (`npx plm80`)
+- [asm8](https://github.com/begoon/asm8) - Intel 8080 assembler in TypeScript (`npx asm8080`, [online](https://begoon.github.io/asm8/))
+- [asm8080](https://github.com/begoon/asm8080) - Intel 8080 macro assembler in C
+- [easy](https://github.com/begoon/easy) - compiler for the EASY language (`npx @begoon/easyc`, [online](https://begoon.github.io/easy/))
+- [snobol](https://github.com/begoon/snobol) - SNOBOL4 interpreter in TypeScript (`npx snobol`)
+- [trac](https://github.com/begoon/trac) - TRAC 64 interpreter (`npx trac64i`, [online](https://begoon.github.io/trac/))
+- [nor](https://github.com/begoon/nor) - one-instruction CPU (OISC) based on NOR: DSL, compiler and executor
+- [rapira](https://github.com/begoon/rapira) - Rapira ([Рапира](https://github.com/begoon/rapira/blob/main/RAPIRA.md)) interpreter, see Highlights
 
-## Radio
+## Emulation and reverse engineering
 
-- [ssb](https://github.com/begoon/ssb) - In-browser demonstration of Single Side Band (SSB) modulation (try [online](https://begoon.github.io/ssb))
+- [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
+- [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
+- [jasper](https://github.com/begoon/jasper) - Sinclair ZX Spectrum 48 emulator in Java
+- [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
+- [rk86-monitor](https://github.com/begoon/rk86-monitor) - annotated disassembly of the original 2 KB ROM monitor
+- [rk86-reverse](https://github.com/begoon/rk86-reverse) - Claude Code skills for disassembling and reverse-engineering Intel 8080 programs
+- Byte-exact annotated disassemblies and remakes of 1980s Радио-86РК games:
+  [Volcano](https://github.com/begoon/volcano),
+  [Лестница](https://github.com/begoon/lestnica),
+  [Диверсант](https://github.com/begoon/diverse),
+  [Алмаз](https://github.com/begoon/aliaz1),
+  [ПВО](https://github.com/begoon/pvo),
+  [Клад](https://github.com/begoon/klad),
+  [SPACE](https://github.com/begoon/space)
 
-## Tooling
+## Algorithms and research
 
-- [ghasecret](https://github.com/begoon/ghasecret) - A GitHub Action that triple-base64-encodes secret values so they can be recovered from workflow logs ([GHA marketplace](https://github.com/marketplace/actions/ghasecret))
-- [ghasha](https://github.com/begoon/ghasha) - A Github Action that computes SHA, SHORT_SHA and BRANCH for the current commit ([GHA marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
+- [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP, see Highlights
+- [svg-draw](https://github.com/begoon/svg-draw) - web playground for a JavaScript DSL that draws scientific illustrations ([online](https://begoon.github.io/svg-draw))
+- [gomoku-zig](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
+- [zig-sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
+- [etudes-vegenere](https://github.com/begoon/etudes-vegenere) - Vigenère cipher breaker, the etude from Wetherell's "Etudes for Programmers"
+- [ssb](https://github.com/begoon/ssb) - in-browser demonstration of Single Side Band radio modulation ([online](https://begoon.github.io/ssb))
+- [Mayne-James compression](https://github.com/begoon/tmpz/tree/main/mayne-james-compression) (an LZ precursor) and the [GPM macro processor](https://github.com/begoon/tmpz/tree/main/gpm-macro)
 
-## Algorithms
+## Systems and tooling
 
-- [Gomoku (5 In A Row) game AI agent](https://github.com/begoon/gomoku-zig/) - based on Minimax with Alpha-Beta pruning, local moves pre-sort and quiescence deepening on the leaves to mitigate the horizon problem of Minimax. Implemented in Zig/WASM for [online](https://demin.ws/gomoku-zig/).
-- [Sokoban Solver](https://github.com/begoon/zig-sokoban-solver/) - a Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/))
-- [Vigenère Cipher breaker](https://github.com/begoon/etudes-vegenere/) - a solution for the Vigenère cipher etude from "Etudes for Programmers" by Charles Wetherell (from the Russian editor of the book)
+- [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
+- [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
+- [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
+- [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
+- [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
+- [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
+- [tfl](https://github.com/begoon/tfl) - Transport for London timetable and line status viewer
 
-##  Games
+## Games
 
-- [conix](https://github.com/begoon/conix) - `conix` game port to Python and Typescript
-- [paratrooper](https://github.com/begoon/paratrooper) - a browser remake of the classic 1982 arcade game Paratrooper ([play online](https://begoon.github.io/paratrooper))
-- [fighter](https://github.com/begoon/fighter) - a browser remake of the classic Агат-7 game Fighter ([play online](https://begoon.github.io/fighter))
-- [kling](https://github.com/begoon/kling) - Космические Войны - a browser remake of ПЭВМ АГАТ-9 game ([play online](https://begoon.github.io/kling))
-- [skittles](https://github.com/begoon/skittles) - a web reimagining of Городки — the classic arcade and folk game ([play online](https://begoon.github.io/skittles))
-- [durak](https://github.com/begoon/durak) - карточная игра "Переводной Дурак" ([играть в онлайн](https://begoon.github.io/durak))
-- [psycho](https://github.com/begoon/psycho) - рефлексивная "Платный психолог" ([играть в онлайн](https://begoon.github.io/psycho))
+Browser remakes of classic and Soviet-era games, playable online.
 
-##  Other
+- [paratrooper](https://github.com/begoon/paratrooper) - the 1982 arcade classic ([play](https://begoon.github.io/paratrooper))
+- [fighter](https://github.com/begoon/fighter) - Fighter from the Агат-7 ([play](https://begoon.github.io/fighter))
+- [kling](https://github.com/begoon/kling) - Космические Войны from the Агат-9 ([play](https://begoon.github.io/kling))
+- [skittles](https://github.com/begoon/skittles) - a web reimagining of Городки ([play](https://begoon.github.io/skittles))
+- [durak](https://github.com/begoon/durak) - the card game Переводной Дурак ([play](https://begoon.github.io/durak))
+- [psycho](https://github.com/begoon/psycho) - a reflexive game "Платный психолог" ([play](https://begoon.github.io/psycho))
+- [conix](https://github.com/begoon/conix) - port of `conix` to Python and TypeScript
+- [ucl](https://github.com/begoon/ucl) - HTML/JS remake of the 1996 UCL DOS demo ([view](https://demin.ws/ucl))
 
-- [xc](https://github.com/begoon/xc) - a portable single-file dual-panel file manager with VFS (s3, gcs, ssh), also running via `uvx xcfm` from [pypi.org](https://pypi.org/project/xcfm/)
-- [tfl](https://github.com/begoon/tfl) - a TFL time table and line status viewer
-- [ucl](https://github.com/begoon/ucl) - an HTML/JS re-make on UCL 1996 DOS demo ([view online](https://demin.ws/ucl))
+## Writing
 
-## Experiments
-
-- [Mayne-James compression](https://github.com/begoon/tmpz/tree/main/mayne-james-compression) (LZ precursor)
-- [GPM macro processor](https://github.com/begoon/tmpz/tree/main/gpm-macro)
+I have been writing the blog "Программирование - это просто!" (Programming DIY) at [demin.ws](https://demin.ws) since 2009, mostly about low-level programming, emulation and algorithms.
