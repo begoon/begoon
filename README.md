@@ -2,14 +2,14 @@
 
 **Staff Software Engineer** · London, UK · [demin.ws](https://demin.ws) · [LinkedIn](https://www.linkedin.com/in/alexanderdemin/)
 
-I design and build distributed systems and cloud infrastructure, currently at [iProov](https://www.iproov.com) (biometric identity verification). 20+ years of engineering across backend, platform, embedded and low-level work. Writing code on GitHub since 2009.
+I design and build distributed systems and cloud infrastructure, currently at [iProov](https://www.iproov.com) (biometric identity verification). 20+ years of engineering across backend, platform, embedded and low-level work.
 
 Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8-bit machines and classic algorithms. Things that are slightly closer to the metal, and occasionally problems that probably did not need solving.
 
 ## What I do professionally
 
-- **Distributed systems at iProov.** I work on the backend platform behind iProov's biometric identity verification, a service that banks, governments and enterprises rely on to verify real people in real time. The work is the usual mix at this scale: service boundaries, data flows, latency budgets, reliability and cloud cost.
-- **Cloud and platform engineering.** Infrastructure as code, CI/CD, observability and release engineering on GCP and AWS. Certified as AWS Solutions Architect, Developer and SysOps Administrator, Google Professional Cloud Developer and Associate Cloud Engineer, and HashiCorp Terraform Associate.
+- **Distributed systems at iProov.** I work on the backend platform behind iProov's biometric identity verification service. The work spans service boundaries, data flows, latency budgets, reliability and cloud cost.
+- **Cloud and platform engineering.** Infrastructure as code, CI/CD, observability and release engineering on GCP and AWS. Certified on AWS (Solutions Architect, Developer, SysOps), Google Cloud (Professional Cloud Developer) and Terraform.
 - **Technical leadership.** Design reviews, mentoring, setting engineering standards and turning loosely defined product goals into systems that ship and keep running.
 - **Depth below the framework.** 20+ years across backend, embedded and systems programming means I debug protocols, performance and memory problems at whatever layer they live in, from Kubernetes down to the instruction set.
 - **Writing and teaching.** Author of the blog [Programming DIY](https://demin.ws) since 2009 (also in [English](https://demin.ws/english/)), and of articles for [PragPub](https://pragprog.com/magazines/) on iOS development, Go concurrency and CPU design.
