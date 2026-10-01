@@ -25,7 +25,7 @@ Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8
 | [rapira](https://github.com/begoon/rapira) | Full interpreter for the Soviet educational language Rapira in TypeScript, with an [online playground](https://begoon.github.io/rapira) and `npx rapira` | ★57 |
 | [rk86-js](https://github.com/begoon/rk86-js) | Радио-86РК emulator with built-in debugger, assembler, C and PL/M compilers, shipped as a web component on [rk86.ru](https://rk86.ru) and in the terminal via `npx rk86` | ★28 |
 | [dissertation](https://github.com/begoon/dissertation) | Combined Method for Integer Linear Programming: a four-stage MILP solver (LP relaxation, vector-lattice search, filter row, bounded final search), with implementation, analysis and benchmarks | |
-| [gomoku-zig](https://github.com/begoon/gomoku-zig) | Gomoku AI in Zig/WASM: Minimax with alpha-beta pruning, local move pre-sorting and quiescence deepening to mitigate the horizon problem ([play](https://demin.ws/gomoku-zig/)) | |
+| [gomoku](https://github.com/begoon/gomoku-zig) | Gomoku AI in Zig/WASM: Minimax with alpha-beta pruning, local move pre-sorting and quiescence deepening to mitigate the horizon problem ([play](https://demin.ws/gomoku-zig/)) | |
 | [go-tcpspy](https://github.com/begoon/go-tcpspy) | TCP/IP proxy and traffic spy in Go, with [Python](https://github.com/begoon/py-tcpspy) and [Erlang](https://github.com/begoon/erl-tcpspy) ports | ★53 |
 
 The full list of public repositories sorted by stars is in [stars.md](stars.md).
@@ -64,7 +64,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP, see Highlights
 - [svg-draw](https://github.com/begoon/svg-draw) - web playground for a JavaScript DSL that draws scientific illustrations ([online](https://begoon.github.io/svg-draw))
-- [gomoku-zig](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
+- [gomoku](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
 - [zig-sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
 - [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig (at most 5 guesses, 4.48 on average)
 - [mastermind-web](https://github.com/begoon/mastermind) - the same solver as a browser game: you think of a code, the computer guesses it, and it detects impossible or dishonest answers ([play](https://demin.ws/mastermind/))
