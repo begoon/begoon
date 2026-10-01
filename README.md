@@ -1,3 +1,10 @@
+Software engineer with 20+ years of experience, currently building distributed systems and cloud infrastructure.
+
+I still program for fun.
+
+My side projects tend to involve things that are slightly closer to the metal: emulators, compilers and interpreters, algorithms, reverse engineering, old computers, radio, and occasionally solving problems that probably didn't need solving.
+
+This page is a collection of the projects I'm currently working on or still find interesting.
 # Recent projects
 
 ## Радио-86РК emulator in JavaScript
