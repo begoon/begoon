@@ -87,6 +87,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 Browser remakes of classic and Soviet-era games, playable online.
 
+- [volcano](https://github.com/begoon/volcano) - JavaScript remake of Volcano (Вулкан) from the Радио-86РК ([play](https://demin.ws/volcano/html))
 - [paratrooper](https://github.com/begoon/paratrooper) - the 1982 arcade classic ([play](https://begoon.github.io/paratrooper))
 - [fighter](https://github.com/begoon/fighter) - Fighter from the Агат-7 ([play](https://begoon.github.io/fighter))
 - [kling](https://github.com/begoon/kling) - Космические Войны from the Агат-9 ([play](https://begoon.github.io/kling))
