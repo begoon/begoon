@@ -19,14 +19,12 @@ Away from work I write compilers, emulators and solvers, mostly for Soviet-era 8
 
 ## Highlights
 
-| Project | Why it is interesting | |
-|---|---|---|
-| [i8080-core](https://github.com/begoon/i8080-core) | Cycle-accurate Intel 8080 (KR580VM80A) core in C, verified against the 8080/8085 CPU exercisers; the basis of several emulators | ★83 |
-| [rapira](https://github.com/begoon/rapira) | Full interpreter for the Soviet educational language Rapira in TypeScript, with an [online playground](https://begoon.github.io/rapira) and `npx rapira` | ★57 |
-| [rk86-js](https://github.com/begoon/rk86-js) | Радио-86РК emulator with built-in debugger, assembler, C and PL/M compilers, shipped as a web component on [rk86.ru](https://rk86.ru) and in the terminal via `npx rk86` | ★28 |
-| [dissertation](https://github.com/begoon/dissertation) | Combined Method for Integer Linear Programming: a four-stage MILP solver (LP relaxation, vector-lattice search, filter row, bounded final search), with implementation, analysis and benchmarks | |
-| [gomoku](https://github.com/begoon/gomoku-zig) | Gomoku AI in Zig/WASM: Minimax with alpha-beta pruning, local move pre-sorting and quiescence deepening to mitigate the horizon problem ([play](https://demin.ws/gomoku-zig/)) | |
-| [go-tcpspy](https://github.com/begoon/go-tcpspy) | TCP/IP proxy and traffic spy in Go, with [Python](https://github.com/begoon/py-tcpspy) and [Erlang](https://github.com/begoon/erl-tcpspy) ports | ★53 |
+- [i8080-core](https://github.com/begoon/i8080-core) (★83) - Cycle-accurate Intel 8080 (KR580VM80A) core in C, verified against the 8080/8085 CPU exercisers; the basis of several emulators
+- [rapira](https://github.com/begoon/rapira) (★57) - Full interpreter for the Soviet educational language Rapira in TypeScript, with an [online playground](https://begoon.github.io/rapira) and `npx rapira`
+- [rk86-js](https://github.com/begoon/rk86-js) (★28) - Радио-86РК emulator with built-in debugger, assembler, C and PL/M compilers, shipped as a web component on [rk86.ru](https://rk86.ru) and in the terminal via `npx rk86`
+- [dissertation](https://github.com/begoon/dissertation) - Combined Method for Integer Linear Programming: a four-stage MILP solver (LP relaxation, vector-lattice search, filter row, bounded final search), with implementation, analysis and benchmarks
+- [gomoku](https://github.com/begoon/gomoku-zig) - Gomoku AI in Zig/WASM: Minimax with alpha-beta pruning, local move pre-sorting and quiescence deepening to mitigate the horizon problem ([play](https://demin.ws/gomoku-zig/))
+- [go-tcpspy](https://github.com/begoon/go-tcpspy) (★53) - TCP/IP proxy and traffic spy in Go, with [Python](https://github.com/begoon/py-tcpspy) and [Erlang](https://github.com/begoon/erl-tcpspy) ports
 
 The full list of public repositories sorted by stars is in [stars.md](stars.md).
 
