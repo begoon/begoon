@@ -73,15 +73,19 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Systems and tooling
 
+- [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
+- [openvpn-otp](https://github.com/begoon/openvpn-otp) - macOS OpenVPN connector in SwiftUI with automatic one-time password (TOTP) generation
+- [otp-generator-swift](https://github.com/begoon/otp-generator-swift) - macOS menu bar TOTP generator in SwiftUI with clipboard copying
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
 - [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
 - [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 - [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
 - [tube](https://github.com/begoon/tfl) - Transport for London timetable and line status viewer ([online](https://demin.ws/tfl))
 - [imf](https://github.com/begoon/imf) - diet setup calculator for Lyle McDonald's *Intermittent Modified Fasting* book ([online](https://demin.ws/imf/))
+- [morse](https://github.com/begoon/morse) - browser-based Morse trainer with listening and keying practice ([online](https://demin.ws/morse))
 
 ## Games
 
