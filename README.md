@@ -46,6 +46,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [intel8080.com](https://github.com/begoon/intel8080.com) - interactive Intel 8080 and КР580 instruction reference ([online](https://intel8080.com))
 - [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
+- [rk86-maximite](https://github.com/begoon/rk86-maximite) - Радио-86РК emulator for the PIC32-based Maximite microcomputer
 - [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
 - [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
 - [rk86-monitor](https://github.com/begoon/rk86-monitor) - annotated disassembly of the original 2 KB ROM monitor
@@ -77,6 +78,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
+- [ngrok-ts](https://github.com/begoon/ngrok-ts) - TypeScript helper for running ngrok tunnels within applications during local development
 - [openvpn-otp](https://github.com/begoon/openvpn-otp) - macOS OpenVPN connector in SwiftUI with automatic one-time password (TOTP) generation
 - [otp-generator-swift](https://github.com/begoon/otp-generator-swift) - macOS menu bar TOTP generator in SwiftUI with clipboard copying
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
@@ -91,6 +93,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 Browser remakes of classic and Soviet-era games, playable online.
 
+- [life](https://github.com/begoon/life) - Life in the browser ([play](https://svelte-life.vercel.app))
 - [volcano](https://github.com/begoon/volcano) - JavaScript remake of Volcano (Вулкан) from the Радио-86РК ([play](https://demin.ws/volcano/html))
 - [paratrooper](https://github.com/begoon/paratrooper) - the 1982 arcade classic ([play](https://begoon.github.io/paratrooper))
 - [fighter](https://github.com/begoon/fighter) - Fighter from the Агат-7 ([play](https://begoon.github.io/fighter))
