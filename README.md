@@ -90,7 +90,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 - [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
-- [diskspace-action](https://github.com/begoon/diskspace-action) - GitHub Action checking remote disk space over SSH before deployment
+- [diskspace-action](https://github.com/begoon/diskspace-action) - GitHub Action checking remote disk space over SSH before deployment ([marketplace](https://github.com/marketplace/actions/disk-space))
 
 ## Frameworks
 
