@@ -44,7 +44,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Emulation and reverse engineering
 
-- [intel8080.com](https://github.com/begoon/intel8080.com) - interactive Intel 8080 and КР580 instruction reference covering all 256 opcodes, with searchable operands, timings, flags and bit encodings ([online](https://intel8080.com))
+- [intel8080.com](https://github.com/begoon/intel8080.com) - interactive Intel 8080 and КР580 instruction reference ([online](https://intel8080.com))
 - [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
 - [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
 - [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
@@ -64,7 +64,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [dissertation](https://github.com/begoon/dissertation) - Combined Method for ILP, see Highlights
 - [svg-draw](https://github.com/begoon/svg-draw) - web playground for a JavaScript DSL that draws scientific illustrations ([online](https://begoon.github.io/svg-draw))
 - [gomoku](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
-- [zig-sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
+- [sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
 - [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig (at most 5 guesses, 4.48 on average)
 - [mastermind-web](https://github.com/begoon/mastermind) - the same solver as a browser game: you think of a code, the computer guesses it, and it detects impossible or dishonest answers ([play](https://demin.ws/mastermind/))
 - [etudes-vegenere](https://github.com/begoon/etudes-vegenere) - Vigenère cipher breaker, the etude from Wetherell's "Etudes for Programmers"
@@ -73,7 +73,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Systems and tooling
 
-- [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter application for GCP Cloud Run, with environment and metadata inspection, network diagnostics and filesystem browsing
+- [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
