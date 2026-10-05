@@ -46,7 +46,6 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [intel8080.com](https://github.com/begoon/intel8080.com) - interactive Intel 8080 and КР580 instruction reference ([online](https://intel8080.com))
 - [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
-- [rk86-maximite](https://github.com/begoon/rk86-maximite) - Радио-86РК emulator for the PIC32-based Maximite microcomputer
 - [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
 - [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
 - [rk86-monitor](https://github.com/begoon/rk86-monitor) - annotated disassembly of the original 2 KB ROM monitor
@@ -59,6 +58,11 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
   [ПВО](https://github.com/begoon/pvo),
   [Клад](https://github.com/begoon/klad),
   [SPACE](https://github.com/begoon/space)
+
+## Hardware
+
+- [rk86-maximite](https://github.com/begoon/rk86-maximite) - Радио-86РК emulator for the PIC32-based Maximite microcomputer
+- [gmc4-loader](https://github.com/begoon/gmc4-loader) - USB loader for the GMC-4 microcomputer
 
 ## Algorithms and research
 
@@ -74,15 +78,20 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Tools
 
-- [gmc4-loader](https://github.com/begoon/gmc4-loader) - USB loader for the GMC-4 microcomputer
 - [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
 - [ngrok-ts](https://github.com/begoon/ngrok-ts) - TypeScript helper for running ngrok tunnels within applications during local development
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
-- [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
+
+## CI/CD
+
 - [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 - [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
+
+## Frameworks
+
+- [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
 
 ## Applications
 
