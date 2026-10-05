@@ -44,6 +44,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Emulation and reverse engineering
 
+- [intel8080.com](https://github.com/begoon/intel8080.com) - interactive Intel 8080 and КР580 instruction reference covering all 256 opcodes, with searchable operands, timings, flags and bit encodings ([online](https://intel8080.com))
 - [rk86-js](https://github.com/begoon/rk86-js) - Радио-86РК emulator, see Highlights; also available as a [web component](https://rk86.ru/web)
 - [i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 core in JavaScript (★48)
 - [rk86-tape](https://github.com/begoon/rk86-tape) - WAV tape decoder for Радио-86РК, with a [signal visualiser](https://demin.ws/rk86-tape/) and a [write-up of the encoding](https://github.com/begoon/rk86-tape/blob/main/README-RU.md)
@@ -72,6 +73,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Systems and tooling
 
+- [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter application for GCP Cloud Run, with environment and metadata inspection, network diagnostics and filesystem browsing
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
