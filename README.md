@@ -87,11 +87,14 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 ## Applications
 
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
-- [openvpn-otp](https://github.com/begoon/openvpn-otp) - macOS OpenVPN connector in SwiftUI with automatic one-time password (TOTP) generation
-- [otp-generator-swift](https://github.com/begoon/otp-generator-swift) - macOS menu bar TOTP generator in SwiftUI with clipboard copying
 - [tube](https://github.com/begoon/tfl) - Transport for London timetable and line status viewer ([online](https://demin.ws/tfl))
 - [imf](https://github.com/begoon/imf) - diet setup calculator for Lyle McDonald's *Intermittent Modified Fasting* book ([online](https://demin.ws/imf/))
 - [morse](https://github.com/begoon/morse) - browser-based Morse trainer with listening and keying practice ([online](https://demin.ws/morse))
+
+## iOS, macOS, Swift and Objective-C
+
+- [openvpn-otp](https://github.com/begoon/openvpn-otp) - macOS OpenVPN connector in SwiftUI with automatic one-time password (TOTP) generation
+- [otp-generator-swift](https://github.com/begoon/otp-generator-swift) - macOS menu bar TOTP generator in SwiftUI with clipboard copying
 
 ## Games
 
