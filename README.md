@@ -80,6 +80,8 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
+- [go-reverse-proxy](https://github.com/begoon/go-reverse-proxy) - Go reverse-proxy example serving Python, Node and Go applications from one Docker container
+- [openvpn-docker](https://github.com/begoon/openvpn-docker) - containerised OpenVPN client with TOTP and a SOCKS5 proxy
 - [ngrok-ts](https://github.com/begoon/ngrok-ts) - TypeScript helper for running ngrok tunnels within applications during local development
 - [http-server](https://github.com/begoon/http-server) - the same minimal HTTP REST server implemented in many languages, down to assembly (★37)
 
@@ -88,10 +90,12 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 - [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
+- [diskspace-action](https://github.com/begoon/diskspace-action) - GitHub Action checking remote disk space over SSH before deployment
 
 ## Frameworks
 
 - [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
+- [sveltekit-bot](https://github.com/begoon/sveltekit-bot) - Telegram webhook bot built with SvelteKit and deployed on Vercel
 
 ## Applications
 
@@ -125,3 +129,5 @@ Browser remakes of classic and Soviet-era games, playable online.
 ## Writing
 
 I have been writing the blog "Программирование - это просто!" (Programming DIY) at [demin.ws](https://demin.ws) since 2009, mostly about low-level programming, emulation and algorithms.
+
+- [usvisa-api](https://github.com/begoon/usvisa-api) - Go/App Engine demo accompanying my 2012 Dr. Dobb's article on RESTful services
