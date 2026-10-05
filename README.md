@@ -70,7 +70,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 - [svg-draw](https://github.com/begoon/svg-draw) - web playground for a JavaScript DSL that draws scientific illustrations ([online](https://begoon.github.io/svg-draw))
 - [gomoku](https://github.com/begoon/gomoku-zig) - Gomoku AI agent, see Highlights
 - [sokoban-solver](https://github.com/begoon/zig-sokoban-solver) - Sokoban solver in Zig and WASM ([online](https://demin.ws/zig-sokoban-solver/)), plus [60 Sokoban maps](https://github.com/begoon/sokoban-maps) (★49)
-- [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig (at most 5 guesses, 4.48 on average)
+- [mastermind](https://github.com/begoon/tmpz/tree/main/mastermind) - Mastermind solver using Knuth's five-guess algorithm, implemented in Python, V and Zig
 - [mastermind-web](https://github.com/begoon/mastermind) - the same solver as a browser game: you think of a code, the computer guesses it, and it detects impossible or dishonest answers ([play](https://demin.ws/mastermind/))
 - [etudes-vegenere](https://github.com/begoon/etudes-vegenere) - Vigenère cipher breaker, the etude from Wetherell's "Etudes for Programmers"
 - [ssb](https://github.com/begoon/ssb) - in-browser demonstration of Single Side Band radio modulation ([online](https://begoon.github.io/ssb))
@@ -78,7 +78,6 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Tools
 
-- [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
 - [ngrok-ts](https://github.com/begoon/ngrok-ts) - TypeScript helper for running ngrok tunnels within applications during local development
@@ -86,6 +85,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## CI/CD
 
+- [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [ghasha](https://github.com/begoon/ghasha) - GitHub Action exposing SHA, SHORT_SHA and BRANCH for the current commit ([marketplace](https://github.com/marketplace/actions/ghasha-sha-and-branch))
 - [ghasecret](https://github.com/begoon/ghasecret) - GitHub Action for debugging CI: encodes a value so it survives the workflow log masking ([marketplace](https://github.com/marketplace/actions/ghasecret))
 
