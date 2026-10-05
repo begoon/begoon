@@ -74,6 +74,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Tools
 
+- [gmc4-loader](https://github.com/begoon/gmc4-loader) - USB loader for the GMC-4 microcomputer
 - [gcp-cli](https://github.com/begoon/gcp-cli) - Go command-line tools for Cloud Run deployments, Compute Engine VMs and everyday development tasks
 - [cloudrun-primer](https://github.com/begoon/cloudrun-primer) - Go starter for GCP Cloud Run with environment inspection, network diagnostics and filesystem browsing
 - [go-tcpspy](https://github.com/begoon/go-tcpspy) - TCP/IP proxy and spy, see Highlights
