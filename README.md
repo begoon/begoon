@@ -96,7 +96,6 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 Browser remakes of classic and Soviet-era games, playable online.
 
-- [life](https://github.com/begoon/life) - Life in the browser ([play](https://svelte-life.vercel.app))
 - [volcano](https://github.com/begoon/volcano) - JavaScript remake of Volcano (Вулкан) from the Радио-86РК ([play](https://demin.ws/volcano/html))
 - [paratrooper](https://github.com/begoon/paratrooper) - the 1982 arcade classic ([play](https://begoon.github.io/paratrooper))
 - [fighter](https://github.com/begoon/fighter) - Fighter from the Агат-7 ([play](https://begoon.github.io/fighter))
@@ -105,6 +104,7 @@ Browser remakes of classic and Soviet-era games, playable online.
 - [durak](https://github.com/begoon/durak) - the card game Переводной Дурак ([play](https://begoon.github.io/durak))
 - [psycho](https://github.com/begoon/psycho) - a reflexive game "Платный психолог" ([play](https://begoon.github.io/psycho))
 - [conix](https://github.com/begoon/conix) - port of `conix` to Python and TypeScript
+- [life](https://github.com/begoon/life) - Life in the browser ([play](https://svelte-life.vercel.app))
 - [ucl](https://github.com/begoon/ucl) - HTML/JS remake of the 1996 UCL DOS demo ([view](https://demin.ws/ucl))
 
 ## Writing
