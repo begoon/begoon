@@ -104,6 +104,8 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [openvpn-otp](https://github.com/begoon/openvpn-otp) - macOS OpenVPN connector in SwiftUI with automatic one-time password (TOTP) generation
 - [otp-generator-swift](https://github.com/begoon/otp-generator-swift) - macOS menu bar TOTP generator in SwiftUI with clipboard copying
+- [usvisa-app](https://github.com/begoon/usvisa-app) - US Visa app for iPhone in Objective-C
+- [buyround](https://github.com/begoon/buyround) - iPhone app to help buy a round at the pub
 
 ## Games
 
