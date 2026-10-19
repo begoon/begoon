@@ -106,7 +106,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
 - [sveltekit-bot](https://github.com/begoon/sveltekit-bot) - Telegram webhook bot built with SvelteKit and deployed on Vercel
-- [discord-bot](https://github.com/begoon/tmpz/tree/main/discord-bot) - Discord bots built with Bun and deployed on Vercel, using Gateway WebSockets and signed HTTP callbacks
+- [discord-bot](https://github.com/begoon/discord-bot) - Discord bots built with Bun and deployed on Vercel, using Gateway WebSockets and signed HTTP callbacks
 
 ## Applications
 
