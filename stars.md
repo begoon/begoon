@@ -63,5 +63,5 @@ Public repositories sorted by star count.
 | 57 | [institute](https://github.com/begoon/institute) | 1 | Сборник разных работ, выполненных мной во время учебы в МАИ |
 | 58 | [gmc4-loader](https://github.com/begoon/gmc4-loader) | 1 | GMC-4 Microcomputer USB Loader |
 | 59 | [gcp-cli](https://github.com/begoon/gcp-cli) | 1 | GCP Cloud Run deployment and image management CLI |
-| 60 | [etudes-vegenere](https://github.com/begoon/etudes-vegenere) | 1 | Breaking a modified Vigenère cipher on Russian text — exercise from Wetherell's "Etudes for Programmers" |
+| 60 | [vigenere](https://github.com/begoon/vigenere) | 1 | Breaking a modified Vigenère cipher on Russian text — exercise from Wetherell's "Etudes for Programmers" |
 | 61 | [bas80](https://github.com/begoon/bas80) | 1 | A BASIC compiler for 8-bit targets |
