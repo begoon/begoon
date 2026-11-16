@@ -108,7 +108,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## AI agents
 
-- [ai-agent](https://github.com/begoon/ai-agent) - Generic AI agent/harness: tool calls, append-only session log, resume after interruption, context compaction and long-term memory in one Python file
+- [ai-agent](https://github.com/begoon/ai-agent) - Generic AI agent/harness: tool calls, append-only session log, resume after interruption, context compaction and long-term memory
 
 ## Chatbots
 
