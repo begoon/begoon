@@ -106,6 +106,10 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 - [go-svelte](https://github.com/begoon/go-svelte) - Svelte + Go hybrid SPA/MPA application (★32)
 
+## AI agents
+
+- [ai-agent](https://github.com/begoon/ai-agent) - Generic AI agent/harness: tool calls, append-only session log, resume after interruption, context compaction and long-term memory in one Python file
+
 ## Chatbots
 
 - [affirmations](https://github.com/begoon/affirmations) - personal Russian affirmations bot running on Telegram Serverless ([online](https://demin.ws/affirmations))
