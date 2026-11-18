@@ -119,6 +119,7 @@ Compilers, interpreters and assemblers, all written from scratch and runnable in
 
 ## Applications
 
+- [callme](https://github.com/begoon/callme) - instant "call or message me" links for WhatsApp, Telegram, Signal, Viber and other messengers from a phone number or username; an installable offline PWA in vanilla JavaScript ([online](https://demin.ws/callme/))
 - [xc](https://github.com/begoon/xc) - portable single-file dual-panel file manager with a VFS layer (S3, GCS, SSH), `uvx xcfm` from [PyPI](https://pypi.org/project/xcfm/)
 - [tube](https://github.com/begoon/tfl) - Transport for London timetable and line status viewer ([online](https://demin.ws/tfl))
 - [imf](https://github.com/begoon/imf) - diet setup calculator for Lyle McDonald's *Intermittent Modified Fasting* book ([online](https://demin.ws/imf/))
